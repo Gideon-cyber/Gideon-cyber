@@ -1,9 +1,10 @@
 - 👋 Hi, I’m Gideon Nwokpor
-- 👀 I’m interested in Webdevelopment, Web3, and Blockchain
-- 🌱 I’m currently learning Full stack web development with HTML, CSS and JavaScript
+- 👀 I’m interested in Webdevelopment, software development and engineering,web3 and Blockchain
+- 🌱 I’m a Frontend web developer and code with HTML, CSS, SCSS and JavaScript
 - 💞️ I’m looking to collaborate on any project that can make me grow my webdev skills.
 - 📫 How to reach me: 
    * linkedin: https://linkedin.com/in/gideon-nwokpor
+   * gmail: gideonjohnson70@gmail.com
    
 
 <!---
