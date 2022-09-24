@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any project that can make me grow my webdev skills.
 - 📫 How to reach me: 
    * linkedin: https://linkedin.com/in/gideon-nwokpor
-   * gmail: gideonjohnson70@gmail.com
+   * gmail: gidnwokpor@gmail.com
    
 
 <!---
