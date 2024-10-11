@@ -1,4 +1,4 @@
-[![MasterHead](https://res.cloudinary.com/depqqbyyn/image/upload/v1697024352/White_Minimalist_Profile_LinkedIn_Banner_u8kd92.png)](https://gid-portfolio.vercel.app/)
+[![MasterHead](https://res.cloudinary.com/depqqbyyn/image/upload/v1728643658/White_Minimalist_Profile_LinkedIn_Banner_tfdo9p.png)](https://gid-portfolio.vercel.app/)
 <h1 align="center">Hi 👋, I'm Gideon Nwokpor (Gideon_Cyber)</h1>
 <h4 align="left">I am an expert in crafting innovative solutions. With years of experience and a comprehensive skill set, I excel in delivering high-quality software solutions, designing seamless user experiences, and developing decentralized applications. I thrive in dynamic environments, leveraging my problem-solving skills to overcome challenges and exceed expectations. Let's collaborate and bring your ideas to life in the digital landscape.</h3>
 <img align="right" alt="Coding" width="400" margin="0 auto" src="https://www.lambdatest.com/resources/images/news24.gif">
