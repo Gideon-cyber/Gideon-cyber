@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://gid-portfolio.vercel.app/](https://gid-portfolio.vercel.app/)
 
-- 💬 Ask me about **JavaScript, React, Node.js, React-Native, Firebase, Express, MongoDB, TypeScript**
+- 💬 Ask me about **JavaScript, React, Next.js, Node.js, React-Native, Flutter, Firebase, Express, MongoDB, TypeScript, Dart, Nest**
 
 - 📫 How to reach me **gidnwokpor@gmail.com**
 
